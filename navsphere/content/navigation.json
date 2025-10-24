@@ -7,10 +7,10 @@
       "items": [
         {
           "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
+          "title": "程序员导航网",
+          "href": "https://hao.panziye.com/",
+          "description": "码农必备的工具网站",
+          "icon": "/assets/images/logos/favicon.png",
           "enabled": true
         },
         {
